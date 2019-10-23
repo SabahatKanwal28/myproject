@@ -13,7 +13,7 @@ It's hard. It's always hard, when you do something for the first time. Especiall
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 
-Git Kraken
+>>Git Kraken
 
 Download [GitKraken](https://www.gitkraken.com), install and open it.
 
@@ -26,14 +26,14 @@ You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and
 (optional) Go to File->Preferences and set your project directory to the root of your local repositories.
 
 
-## Fork this repository
+>>Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 This will create of copy of this repository in your account.
 
 
-## Clone the repository
+>>Clone the repository
 
 In GitKraken, go to File-> Clone Repo.
 
@@ -46,7 +46,7 @@ Select GitHub.com in the right pane. Under your username, you should see first-c
 Once you're satisfied with the path, click "Clone the repo!".
 
 
-## Create a branch
+>> Create a branch
 
 Click the branch button on the toolbar.
 
